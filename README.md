@@ -9,20 +9,20 @@ Configuration process for a new development environment
 Prerequisite: Mac OSX 10.9 (Mavericks)
 
 **Install XCode Command Line Tools**  
-http://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/
+For more information see: http://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/
 ```
 > xcode-select --install
 ```
 
 **Install Homebrew**  
-http://brew.sh/
+For more information see: http://brew.sh/
 ```
 > ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
 > brew doctor
 ```
 
 **Install Ruby 1.9**  
-http://vialstudios.com/guide-authoring-cookbooks.html
+For more information see: http://vialstudios.com/guide-authoring-cookbooks.html
 ```
 > brew install rbenv
 > if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
@@ -46,7 +46,7 @@ ruby 1.9.3p547 (2014-05-14 revision 45962) [x86_64-darwin13.2.0]
 ```
 
 **Install Bundler**  
-Bundler will provide dependency resolution. See http://bundler.io/.
+Bundler will provide dependency resolution. For more information see: http://bundler.io/.
 ```
 > gem install bundler -v ="1.6.3"
 ```
