@@ -67,7 +67,7 @@ http://www.vagrantup.com/downloads.html
 https://www.virtualbox.org/wiki/Downloads
 
 **Perform Workaround for VBox DHCP**  
-https://github.com/mitchellh/vagrant/issues/3083
+For more information, see: https://github.com/mitchellh/vagrant/issues/3083
 ```
-VBoxManage dhcpserver remove --netname HostInterfaceNetworking-vboxnet0
+> VBoxManage dhcpserver remove --netname HostInterfaceNetworking-vboxnet0
 ```
