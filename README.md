@@ -4,7 +4,7 @@ Configuration process for a new development environment
 
 - SCM: https://github.com/frkline/dev-setup
 
-## Configure your Environment
+## Configure Your Environment
 
 Prerequisite: Mac OSX 10.9 (Mavericks)
 
