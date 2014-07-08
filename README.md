@@ -55,7 +55,7 @@ Bundler will provide dependency resolution. For more information see: http://bun
 ```
 > vi ~/.bundle/config
 > i
-> BUNDLE_PATH: .vendor/bundle
+> BUNDLE_PATH: ~/.vendor/bundle
 > BUNDLE_DISABLE_SHARED_GEMS: "1"
 > :wq
 ```
