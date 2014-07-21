@@ -59,9 +59,11 @@ BUNDLE_DISABLE_SHARED_GEMS: "1"
 
 **Install Vagrant (1.6.3)**  
 http://www.vagrantup.com/downloads.html
+
+** Install Vagrant Plugins**
 ```
-> vagrant plugin install vagrant-berkshelf
-> vagrant plugin install vagrant-omnibus
+> vagrant plugin install vagrant-berkshelf --plugin-version=2.0.1
+> vagrant plugin install vagrant-omnibus --plugin-version=1.4.1
 ```
 
 **Install VirtualBox (4.3.12)**  
