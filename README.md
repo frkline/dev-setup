@@ -51,6 +51,7 @@ Bundler will provide dependency resolution. For more information see: http://bun
 
 **Isolate Bundler Installs from System**
 ```
+> mkdir ~/.bundle
 > vi ~/.bundle/config
 BUNDLE_PATH: ~/.bundle/bundle
 BUNDLE_DISABLE_SHARED_GEMS: "1"
