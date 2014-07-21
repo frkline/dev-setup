@@ -71,8 +71,8 @@ For more information, see: https://github.com/mitchellh/vagrant/issues/3083
 
 ## Configure Development Tools
 
-**Install Java 7 JDK**  
-Select Mac OS X x64 from the [Java JDK 7 Download Site](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)
+**Install Java 8 JDK**  
+Select Mac OS X x64 from the [Java JDK 8 Download Site](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
 **Add JAVA_HOME Environment Variable**  
 ```
