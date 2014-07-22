@@ -119,9 +119,9 @@ Download IntelliJ IDEA 13 Ultimate Edition from the [IntelliJ Download Site](htt
 2. Web/JavaEE Plugins: Disable All > Select (Application Servers View, Java EE: RESTful Web Services, SQL)  
 3. Application Server Plugins: Disable All > Select (Tomcat and TomEE)  
 4. HTML/JavaScript Plugins: Disable all > Select (HTML Tools, JavaScript, JavaScript Intention Power Pack, QuirksMode, Spy-js, W3C)  
-5. Other Plugins: Disable all > Select (Byte Code Viewer, Cucumber for Java, Emma, JUnit, Maven, Maven Integration Extension, YAML, REST Client, Terminal)  
+5. Other Plugins: Disable all > Select (Byte Code Viewer, Cucumber for Java, Emma, JUnit, Maven, Maven Integration Extension, YAML, Remote Hosts Access, SSH Remote Run, REST Client, Terminal)  
 
 **Configure Maven**  
-1. Select "Configure" from the Welcome screen, or enter the IntelliJ preferences. 
+1. Select "Configure" from the Welcome screen and select Preferences, or enter the IntelliJ preferences.  
 2. Select Maven  
-3. Check the "Override" box next to maven home, and choose (your home)/tools/apache-maven-3.2.2
+3. Check the "Override" box next to maven home, and choose (your home)/tools/apache-maven-3.2.2  
